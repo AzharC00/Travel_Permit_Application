@@ -1,0 +1,5 @@
+00011 john Traveler 1 0 0 0
+00012 john Traveler 0 1 0 0
+00013 john Traveler 0 0 1 0
+00014 john Traveler 0 0 0 1
+00015 Tommy Traveler 0 0 0 1

@@ -1,0 +1,2 @@
+john Visit Kuala Lumpur Car 5/1/2021 No Negative 1 0 0 0
+john Visit Kuching Sabah Car 5/1/2021 No Negative 0 0 0 1

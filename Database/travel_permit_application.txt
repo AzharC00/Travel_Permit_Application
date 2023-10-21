@@ -1,0 +1,7 @@
+32055 john Visit Kuching Samarahan Car 05/01/2021 No Negative PENDING Traveler
+32056 john Trip Sabah Kuching Airplane 06/03/2021 No Negative PENDING Traveler
+32057 jacky Trip Penang KL Car 01/03/2021 No Negative APPROVED Traveler
+32058 jacky Trip Perlis Penang Airplane 02/03/2021 No Negative REJECTED Traveler
+32059 john Trip Kuching Sibu Car 03/03/2021 No Negative CANCEL Traveler10513john sd dad adawd awdad 21313 wdwd wdw PENDING Traveler
+12133john Holiday Kuching Samarahan Car 5/1/2021 None Negative PENDING Traveler
+18772john Holiday Kuching Samarahan Car 1/1/2021 No Negative PENDING Traveler
